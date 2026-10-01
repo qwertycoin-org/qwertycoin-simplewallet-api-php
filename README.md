@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **ARCHIVED LEGACY SIMPLEWALLET CLIENT — DO NOT USE WITH QWERTYCOIN V2.**
+> This PHP client targets the retired `simplewallet` API and obsolete request
+> and address assumptions. Do not use it for exchange deposits, withdrawals,
+> custody, or any funded wallet. Use direct, tested calls based on the current
+> [wallet RPC documentation](https://docs.qwertycoin.org/) and
+> [Qwertycoin Core](https://github.com/qwertycoin-org/qwertycoin).
+
 # PHP class for interaction with Qwertycoin Simplewallet API
 
 Simple php class for interaction with [Qwertycoin Simplewallet JSON RPC API](https://github.com/qwertycoin-org/qwertycoin-api-php).
